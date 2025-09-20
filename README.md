@@ -59,3 +59,17 @@ Este curso oferece uma experiência prática em Engenharia de Analytics, utiliza
 
 ### Alerta Importante:
 Dado o uso de serviços pagos na AWS, é fundamental monitorar e otimizar os custos, seguindo práticas de **FinOps** para balancear eficiência e controle financeiro durante o desenvolvimento do projeto.
+
+**O que é FinOps?**
+**FinOps** (Financial Operations) é uma prática que une finanças, tecnologia e operações para:
+
+Monitorar e otimizar os custos de serviços em nuvem.
+Promover decisões conscientes sobre gastos com infraestrutura.
+Equilibrar performance técnica e controle financeiro, especialmente em ambientes de nuvem como a AWS.
+Aplicação no projeto:
+No contexto do projeto ETL com AWS Glue, aplicar FinOps significa:
+
+Evitar desperdícios ao usar apenas os recursos necessários.
+Escolher configurações eficientes para jobs ETL (como tempo de execução e tipo de instância).
+Monitorar o uso dos serviços com ferramentas da própria AWS (como o Cost Explorer).
+Planejar o uso dos recursos conforme o orçamento disponível para o treinamento.
